@@ -1,27 +1,20 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099cc&height=200&section=header&text=Hola,%20soy%20Adrián&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=55&descSize=20" />
-</div>
+# Adrián
 
-### 👨‍💻 Sobre mí
-
-¡Hola! Soy **Adrián**, estudiante del Grado en **Ingeniería Informática** en España. 
-
-Mi formación se centra en la comprensión profunda de cómo funciona el software, desde la gestión de memoria en **C** hasta la programación orientada a objetos con **Java** y el análisis de datos con **Python**. Me interesa especialmente el desarrollo Backend y la arquitectura de bases de datos.
-
-- 🔭 **Actualmente cursando:** Ingeniería Informática.
-- 📚 **Enfocado en:** Algoritmos, Estructuras de Datos, Diseño de Bases de Datos y Desarrollo de Aplicaciones en Java.
-- 🎯 **Objetivo:** Aplicar mis conocimientos académicos en proyectos del mundo real.
+Estudiante de Ingeniería Informática | Backend Development
 
 ---
 
-### 💻 Mi Stack Tecnológico
+Soy Adrián, estudiante de Ingeniería Informática en España. Mi formación abarca desde la gestión de memoria en C hasta el desarrollo de aplicaciones en Java y análisis de datos con Python.
 
-Aquí están las tecnologías que manejo en mi día a día universitario y en proyectos personales:
+**Actualmente:**
+- Cursando Ingeniería Informática
+- Enfocado en algoritmos, estructuras de datos y bases de datos
+- Buscando aplicar conocimientos académicos en proyectos reales
 
-**Lenguajes de Programación**
-**Lenguajes de Programación**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
-</p>
+---
+
+**Tecnologías:**
+
+Java · Python · C
+
+---
