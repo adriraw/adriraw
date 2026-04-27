@@ -42,11 +42,9 @@ Trato cada proyecto como una oportunidad de crear algo que destaque, fusionando 
 
 ---
 
-## 📫 Contacto
+## 📫 Portfolio
 
 - 💼 **Portfolio**: [adriraw.netlify.app](https://adriraw.netlify.app)
-- 📧 **Email**: [adrianrijorijo@gmail.com](mailto:adrianrijorijo@gmail.com)
-- 🐙 **GitHub**: [@adriraw](https://github.com/adriraw)
 
 ---
 
